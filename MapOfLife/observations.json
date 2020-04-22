@@ -1,0 +1,137 @@
+{
+  "Fruit fly" : {
+    "id" : 1,
+    "observationAmount" : 2,
+    "name" : "Fruit fly",
+    "comment" : "Died shortly after observation.",
+    "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Drosophila_melanogaster_Proboscis.jpg/1280px-Drosophila_melanogaster_Proboscis.jpg",
+    "animal" : {
+      "type" : "Invertebrate",
+      "name" : "Fruit fly",
+      "scientificName" : "Drosophila melanogaster",
+      "color" : "Light yellow",
+      "amountOfLegs" : 6,
+      "amountOfEyes" : 5,
+      "canFly" : true
+    },
+    "location" : {
+      "name" : "Ice Mountains",
+      "biome" : "Tundra",
+      "planet" : "Neptune",
+      "longitude" : 71.241,
+      "latitude" : 31.093
+    },
+    "date" : [ 2337, 1, 12 ]
+  },
+  "Cane toad" : {
+    "id" : 3,
+    "observationAmount" : 15,
+    "name" : "Cane toad",
+    "comment" : "One of our team members licked it's back for some reason. After a couple of seconds he started babbling, it seemed like he suddenly got drunk.This led to the rest of the team licking the toad and the whole team started seeing all kinds of stuff.",
+    "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canetoadmale.jpg/330px-Canetoadmale.jpg",
+    "animal" : {
+      "type" : "Amphibian",
+      "name" : "Cane toad",
+      "scientificName" : "Rhinella marina",
+      "color" : "Yellow-brown",
+      "poisonous" : true,
+      "canJump" : true
+    },
+    "location" : {
+      "name" : "Fitzroy river",
+      "biome" : "River",
+      "planet" : "Earth",
+      "longitude" : 150.883,
+      "latitude" : -23.526
+    },
+    "date" : [ 2337, 6, 27 ]
+  },
+  "Cyclops" : {
+    "id" : 5,
+    "observationAmount" : 1,
+    "name" : "Cyclops",
+    "comment" : "It came out of the cave and ran towards us with open arms. When it got to us, it hugged us all, it was a gentle giant.",
+    "pictureUrl" : "https://i.pinimg.com/236x/57/36/64/573664b57d38de323be42130f25ff978--mythological-creatures-mythical-creatures.jpg",
+    "animal" : {
+      "type" : "Humanoid",
+      "name" : "Cyclops",
+      "scientificName" : "Gigantus Cyclopsius",
+      "color" : "Light tan",
+      "amountOfEyes" : 1,
+      "amountOfArms" : 2,
+      "height" : 268,
+      "iq" : 29
+    },
+    "location" : {
+      "name" : "Olympus Mons",
+      "biome" : "Mountain",
+      "planet" : "Mars",
+      "longitude" : 129.564,
+      "latitude" : 21.001
+    },
+    "date" : [ 2337, 11, 17 ]
+  },
+  "test" : {
+    "id" : 15,
+    "observationAmount" : 1,
+    "name" : "updatetest",
+    "comment" : "kommentar",
+    "pictureUrl" : "https://i.pinimg.com/originals/5b/b4/8b/5bb48b07fa6e3840bb3afa2bc821b882.jpg",
+    "animal" : null,
+    "location" : {
+      "name" : "plass",
+      "biome" : "skog",
+      "planet" : "jorda",
+      "longitude" : 123.2,
+      "latitude" : 11.1
+    },
+    "date" : [ 20334, 1, 2 ]
+  },
+  "Polar worm" : {
+    "id" : 2,
+    "observationAmount" : 1,
+    "name" : "Polar worm",
+    "comment" : "Charged at us and killed one of our team members. Very aggressive creature.",
+    "pictureUrl" : "https://vignette.wikia.nocookie.net/forgottenrealms/images/5/5b/Remorhaz5e.jpg/revision/latest/scale-to-width-down/350?cb=20171010191253",
+    "animal" : {
+      "type" : "Invertebrate",
+      "name" : "Polar worm",
+      "scientificName" : "Remorhaz",
+      "color" : "Ice-blue",
+      "amountOfLegs" : 100,
+      "amountOfEyes" : 2,
+      "canFly" : false
+    },
+    "location" : {
+      "name" : "Ice Mountains",
+      "biome" : "Tundra",
+      "planet" : "Neptune",
+      "longitude" : 71.241,
+      "latitude" : 31.093
+    },
+    "date" : [ 2337, 3, 5 ]
+  },
+  "Spotted salamander" : {
+    "id" : 4,
+    "observationAmount" : 3,
+    "name" : "Spotted salamander",
+    "comment" : "",
+    "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/330px-SpottedSalamander.jpg",
+    "animal" : {
+      "type" : "Amphibian",
+      "name" : "Spotted salamander",
+      "scientificName" : "Ambystoma maculatum",
+      "color" : "Black with yellow spots",
+      "poisonous" : true,
+      "canJump" : false
+    },
+    "location" : {
+      "name" : "Grindstone March",
+      "biome" : "Wetland",
+      "planet" : "Earth",
+      "longitude" : 143.871,
+      "latitude" : 5.439
+    },
+    "date" : [ 2337, 7, 11 ]
+  }
+}
